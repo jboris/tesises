@@ -24,3 +24,15 @@ parte de él, manteniendo mis derechos de autor hasta un periodo de 30
 meses posterior a su aprobación.\
 
 José Boris Bellido Santa María
+
+Dedicatoria {#dedicatoria .unnumbered}
+===========
+
+Para mis padres,\
+José y Yolanda.
+
+Agradecimientos {#agradecimientos .unnumbered}
+===============
+
+Resumen {#resumen .unnumbered}
+=======
