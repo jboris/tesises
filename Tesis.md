@@ -36,3 +36,18 @@ Agradecimientos {#agradecimientos .unnumbered}
 
 Resumen {#resumen .unnumbered}
 =======
+
+Introducción {#introducción .unnumbered}
+============
+
+Fundamentos teóricos y de contexto
+==================================
+
+Análisis e interpretación de las indagaciones de campo
+======================================================
+
+Propuesta y validación
+======================
+
+Conclusiones y recomendaciones {#conclusiones-y-recomendaciones .unnumbered}
+==============================
