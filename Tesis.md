@@ -40,6 +40,44 @@ Resumen {#resumen .unnumbered}
 Introducción {#introducción .unnumbered}
 ============
 
+Antecedentes {#antecedentes .unnumbered}
+------------
+
+Situación problémica {#situación-problémica .unnumbered}
+--------------------
+
+Formulación del problema de investigación {#formulación-del-problema-de-investigación .unnumbered}
+-----------------------------------------
+
+(Como afirmación o alternativamente como pregunta)
+
+Hipótesis {#hipótesis .unnumbered}
+---------
+
+### Conceptualización de las variables {#conceptualización-de-las-variables .unnumbered}
+
+### Operacionalización las de variables {#operacionalización-las-de-variables .unnumbered}
+
+( Cuadro que determina por variable, sus dimensiones, categorías e
+indicadores)
+
+Objetivos de la investigación {#objetivos-de-la-investigación .unnumbered}
+-----------------------------
+
+### Objetivo general {#objetivo-general .unnumbered}
+
+### Objetivos específicos {#objetivos-específicos .unnumbered}
+
+Justificación {#justificación .unnumbered}
+-------------
+
+(Relevancia y pertinencia social, actualidad y novedad del tema)
+
+Diseño metodológico {#diseño-metodológico .unnumbered}
+-------------------
+
+.(Acorde al enfoque cuantitativo en las ciencias sociales)2
+
 Fundamentos teóricos y de contexto
 ==================================
 
